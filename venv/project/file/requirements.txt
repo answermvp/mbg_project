@@ -3,7 +3,7 @@ certifi==2019.3.9
 chardet==3.0.4
 ddt==1.2.1
 idna==2.8
-pip==19.1.1
+pip==21.1
 poium==0.3.1
 PyMySQL==0.9.3
 requests==2.21.0
