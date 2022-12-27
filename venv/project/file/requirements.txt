@@ -8,7 +8,7 @@ poium==0.3.1
 PyMySQL==0.9.3
 requests==2.21.0
 selenium==3.141.0
-setuptools==28.8.0
+setuptools==65.5.1
 urllib3==1.24.1
 xlrd==1.2.0
 xlwt==1.3.0
